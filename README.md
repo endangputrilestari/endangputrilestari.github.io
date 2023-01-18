@@ -34,25 +34,6 @@ REDMIBOOK@DESKTOP-SCQJ477 MINGW64 ~/Downloads/My_Fortofolio/My_Fortofolio (main)
 $ git remote add origin https://github.com/endangputrilestari.github.io.git
 
 REDMIBOOK@DESKTOP-SCQJ477 MINGW64 ~/Downloads/My_Fortofolio/My_Fortofolio (main)
-$
-
-REDMIBOOK@DESKTOP-SCQJ477 MINGW64 ~/Downloads/My_Fortofolio/My_Fortofolio (main)
-$ git push -u orign main
-error: src refspec main does not match any
-error: failed to push some refs to 'orign'
-
-REDMIBOOK@DESKTOP-SCQJ477 MINGW64 ~/Downloads/My_Fortofolio/My_Fortofolio (main)
-$ git push -u origin main
-error: src refspec main does not match any
-error: failed to push some refs to 'https://github.com/endangputrilestari.github.io.git'
-
-REDMIBOOK@DESKTOP-SCQJ477 MINGW64 ~/Downloads/My_Fortofolio/My_Fortofolio (main)
-$ git push -v origin main
-Pushing to https://github.com/endangputrilestari.github.io.git
-error: src refspec main does not match any
-error: failed to push some refs to 'https://github.com/endangputrilestari.github.io.git'
-
-REDMIBOOK@DESKTOP-SCQJ477 MINGW64 ~/Downloads/My_Fortofolio/My_Fortofolio (main)
 $ git push -w origin main
 error: unknown switch `w'
 usage: git push [<options>] [<repository> [<refspec>...]]
